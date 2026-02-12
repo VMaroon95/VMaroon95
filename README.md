@@ -8,8 +8,8 @@
 
 I'm a data-driven professional with 8+ years of experience in business and data analytics. I love turning messy data into clear insights — and now I'm channeling that same analytical mindset into building open-source tools that help people stay safe online.
 
-- 🔭 Currently building **[ExtensionGuard](https://github.com/VMaroon95/ExtensionGuard)** — a Chrome extension security auditor
-- 🌱 Learning more about **cybersecurity**, **web scraping**, and **full-stack development**
+- 🔭 Currently building **[ExtensionGuard](https://github.com/VMaroon95/ExtensionGuard)** & **[Project Spark](https://github.com/VMaroon95/ProjectSpark)**
+- 🌱 Exploring **AI governance**, **cybersecurity**, and **full-stack development**
 - 💡 Passionate about making complex data simple and accessible
 - 📍 Based in the US
 
@@ -26,8 +26,10 @@ I'm a data-driven professional with 8+ years of experience in business and data 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Chrome](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 ---
 
@@ -35,7 +37,8 @@ I'm a data-driven professional with 8+ years of experience in business and data 
 
 | Project | Description |
 |---------|-------------|
-| 🛡️ **[ExtensionGuard](https://github.com/VMaroon95/ExtensionGuard)** | Chrome Extension Security Auditor — scan any extension for privacy risks and get an instant safety grade (A–F) |
+| 🛡️ **[ExtensionGuard](https://github.com/VMaroon95/ExtensionGuard)** | Browser Safety Suite — 5 security modules protecting you in real-time (extension monitor, clipboard sanitizer, URL shield, ghost script detector, AI privacy filter). 100% local. |
+| ⚡ **[Project Spark](https://github.com/VMaroon95/ProjectSpark)** | AI Governance & Evaluation Platform — LLM benchmark sensitivity analysis across 5 prompt architectures + CLEAR Act copyright compliance dashboard with PDF disclosure forms. |
 
 ---
 
