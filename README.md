@@ -1,62 +1,38 @@
-# Hey, I'm Varun Meda 👋
+# Varun Meda
 
-**Business Analyst | Data Analyst | Building tools that make the web safer**
+**Security Researcher · Senior Business & Data Analyst · AI Engineer**
 
----
-
-### 🧑‍💻 About Me
-
-I'm a data-driven professional with 8+ years of experience in business and data analytics. I love turning messy data into clear insights — and now I'm channeling that same analytical mindset into building open-source tools that help people stay safe online.
-
-- 🔭 Currently building **[ExtensionGuard](https://github.com/VMaroon95/ExtensionGuard)** & **[Project Spark](https://github.com/VMaroon95/ProjectSpark)**
-- 🌱 Exploring **AI governance**, **cybersecurity**, and **full-stack development**
-- 💡 Passionate about making complex data simple and accessible
-- 📍 Based in the US
+Building tools that protect users, audit AI systems, and make the web safer. 8+ years in data & business analysis. DBA candidate (AI & Business Intelligence, May 2026).
 
 ---
 
-### 🛠️ Tech Stack
+## 🔒 Security Research Hub
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Chrome](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+### Flagship Tools
 
----
+| Tool | What It Does |
+|---|---|
+| [**🛡️ ExtensionGuard**](https://github.com/VMaroon95/ExtensionGuard) | Chrome security suite — 5 modules: extension risk grading, clipboard sanitization, phishing URL shield, clickjacking detection, AI privacy filter |
+| [**🔑 API Auditor**](https://github.com/VMaroon95/API_Auditor) | CLI + CI/CD auditor for API key permissions. Multi-provider scanning, live validation, Gemini/AI flagging, React dashboard |
+| [**🔬 Repo X-Ray**](https://github.com/VMaroon95/repo-xray) | AST-powered security scanner + D3.js dependency graph. Secrets detection, architecture mapping, PageRank file analysis |
+| [**🔔 Push Guardian**](https://github.com/VMaroon95/Push_Guardian) | Enterprise push notification sanitization middleware. Safety-Net protocol, Fail-Open guarantee, Chrome MV3 |
 
-### 🚀 Featured Projects
+### AI & Data Platforms
 
-| Project | Description |
-|---------|-------------|
-| 🛡️ **[ExtensionGuard](https://github.com/VMaroon95/ExtensionGuard)** | Browser Safety Suite — 5 security modules protecting you in real-time (extension monitor, clipboard sanitizer, URL shield, ghost script detector, AI privacy filter). 100% local. |
-| ⚡ **[Project Spark](https://github.com/VMaroon95/ProjectSpark)** | AI Governance & Evaluation Platform — LLM benchmark sensitivity analysis across 5 prompt architectures + CLEAR Act copyright compliance dashboard with PDF disclosure forms. |
+| Tool | What It Does |
+|---|---|
+| [**⚡ ProjectSpark**](https://github.com/VMaroon95/ProjectSpark) | AI Governance — LLM benchmark sensitivity analysis + CLEAR Act copyright compliance dashboard |
+| [**🧠 AI Brain Vault**](https://github.com/VMaroon95/AI-Brain-Vault) | Local-first AI conversation capture + semantic search. Chrome extension + FastAPI + sentence-transformers |
+| [**🔮 Size-Oracle**](https://github.com/VMaroon95/Size-Oracle) | Universal clothing size advisor. Confidence-scored recommendations across 100+ retailers. Privacy-first |
 
 ---
 
-### 📊 GitHub Stats
+## Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VMaroon95&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VMaroon95&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>
+`Python` · `JavaScript` · `SQL` · `FastAPI` · `React` · `Chrome Extensions (MV3)` · `Azure` · `Databricks` · `Power BI` · `Docker` · `NLP` · `D3.js`
 
 ---
 
-### 📫 Connect With Me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:varunmeda01@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VMaroon95)
-
----
-
-<p align="center"><i>⭐ If you find my projects useful, consider giving them a star!</i></p>
+📧 varunmeda95@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/varunmeda1) · 🌐 [Portfolio](https://VMaroon95.github.io)
