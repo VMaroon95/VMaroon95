@@ -14,7 +14,7 @@ Building tools that protect users, audit AI systems, and make the web safer. 8+ 
 |---|---|
 | [**🛡️ ExtensionGuard**](https://github.com/VMaroon95/ExtensionGuard) | Chrome security suite — 5 modules: extension risk grading, clipboard sanitization, phishing URL shield, clickjacking detection, AI privacy filter |
 | [**🔑 API Auditor**](https://github.com/VMaroon95/API_Auditor) | CLI + CI/CD auditor for API key permissions. Multi-provider scanning, live validation, Gemini/AI flagging, React dashboard |
-| [**🔬 Repo X-Ray**](https://github.com/VMaroon95/repo-xray) | AST-powered security scanner + D3.js dependency graph. Secrets detection, architecture mapping, PageRank file analysis |
+| [**🔬 Repo X-Ray**](https://github.com/VMaroon95/Repo_X-Ray) | AST-powered security scanner + D3.js dependency graph. Secrets detection, architecture mapping, PageRank file analysis |
 | [**🔔 Push Guardian**](https://github.com/VMaroon95/Push_Guardian) | Enterprise push notification sanitization middleware. Safety-Net protocol, Fail-Open guarantee, Chrome MV3 |
 
 ### AI & Data Platforms
