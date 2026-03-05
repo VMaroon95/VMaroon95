@@ -1,29 +1,51 @@
 # Varun Meda
 
-**Security Researcher · Senior Business & Data Analyst · AI Engineer**
+**Security Researcher · Senior Business & Data Analyst · AI Governance Engineer**
 
-Building tools that protect users, audit AI systems, and make the web safer. 8+ years in data & business analysis. DBA candidate (AI & Business Intelligence, May 2026).
+Building tools that enforce AI accountability, protect users, and audit software supply chains. 8+ years in data & business analysis. DBA candidate (AI & Business Intelligence, May 2026).
 
 ---
 
-## 🔒 Security Research Hub
-
-### Flagship Tools
+## 🏛️ The AI Governance Suite
 
 | Tool | What It Does |
 |---|---|
-| [**🛡️ ExtensionGuard**](https://github.com/VMaroon95/ExtensionGuard) | Chrome security suite — 5 modules: extension risk grading, clipboard sanitization, phishing URL shield, clickjacking detection, AI privacy filter |
-| [**🔑 API Auditor**](https://github.com/VMaroon95/API_Auditor) | CLI + CI/CD auditor for API key permissions. Multi-provider scanning, live validation, Gemini/AI flagging, React dashboard |
-| [**🔬 Repo X-Ray**](https://github.com/VMaroon95/Repo_X-Ray) | AST-powered security scanner + D3.js dependency graph. Secrets detection, architecture mapping, PageRank file analysis |
-| [**🔔 Push Guardian**](https://github.com/VMaroon95/Push_Guardian) | Enterprise push notification sanitization middleware. Safety-Net protocol, Fail-Open guarantee, Chrome MV3 |
+| [**🔐 git-provenance**](https://github.com/VMaroon95/git-provenance) | AI Governance & IP Compliance Firewall for Git — provenance tracking, AI contribution gating, model allow-listing, audit reports |
+| [**🔑 API Auditor**](https://github.com/VMaroon95/API_Auditor) | CLI + CI/CD auditor for API key permissions. Multi-provider scanning, live validation, policy drift detection |
+| [**⚡ ProjectSpark**](https://github.com/VMaroon95/ProjectSpark) | AI Governance Platform — LLM benchmark sensitivity analysis + CLEAR Act copyright compliance dashboard |
 
-### AI & Data Platforms
+## 🔬 The Forensics Suite
 
 | Tool | What It Does |
 |---|---|
-| [**⚡ ProjectSpark**](https://github.com/VMaroon95/ProjectSpark) | AI Governance — LLM benchmark sensitivity analysis + CLEAR Act copyright compliance dashboard |
-| [**🧠 AI Brain Vault**](https://github.com/VMaroon95/AI-Brain-Vault) | Local-first AI conversation capture + semantic search. Chrome extension + FastAPI + sentence-transformers |
-| [**🔮 Size-Oracle**](https://github.com/VMaroon95/Size-Oracle) | Universal clothing size advisor. Confidence-scored recommendations across 100+ retailers. Privacy-first |
+| [**🔬 Repo X-Ray**](https://github.com/VMaroon95/Repo_X-Ray) | AST-powered security scanner + D3.js dependency graph. Secrets detection, architecture mapping, PageRank analysis |
+
+## 🛡️ Security Tools
+
+| Tool | What It Does |
+|---|---|
+| [**🛡️ ExtensionGuard**](https://github.com/VMaroon95/ExtensionGuard) | Chrome security suite — 5 modules: extension grading, clipboard sanitizer, URL shield, clickjacking detection, AI privacy filter |
+| [**🔔 Push Guardian**](https://github.com/VMaroon95/Push_Guardian) | Enterprise push notification sanitization. Safety-Net protocol, Fail-Open guarantee, Chrome MV3 |
+
+## 🛍️ Consumer Tools
+
+| Tool | What It Does |
+|---|---|
+| [**🔮 Size-Oracle**](https://github.com/VMaroon95/Size-Oracle) | Universal clothing size advisor. 100+ retailers, confidence-scored, privacy-first |
+
+## 🧠 Core Utilities
+
+| Tool | What It Does |
+|---|---|
+| [**🧠 AI Brain Vault**](https://github.com/VMaroon95/AI-Brain-Vault) | Local-first AI conversation capture + semantic search. Chrome extension + FastAPI |
+
+---
+
+## 📚 Research
+
+> **"Enforcing Algorithmic Accountability in Corporate Software Supply Chains"**
+>
+> Using git-provenance to create auditable links between AI-human agency and IP value.
 
 ---
 
