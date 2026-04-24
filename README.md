@@ -10,6 +10,7 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
+| [**✈️ memplane**](https://github.com/VMaroon95/memplane) | Developer Flight Recorder — transparent MCP proxy with 4KB surgical undo, access-weighted decay, and zero-dependency Rust (1.8MB static musl binary) | ✅ v1.0.0 |
 | [**🛡️ ExtensionGuard**](https://github.com/VMaroon95/ExtensionGuard) | Chrome security suite — extension monitoring, clipboard sanitizer, URL shield, script detection, AI privacy filter | ✅ [Chrome Web Store](https://chromewebstore.google.com/) |
 | [**🔮 Size-Oracle**](https://github.com/VMaroon95/Size-Oracle) | Universal clothing size advisor for 100+ retailers | ✅ [Chrome Web Store](https://chromewebstore.google.com/) |
 | [**🌐 Portfolio**](https://VMaroon95.github.io) | Matrix-themed personal site | ✅ Live |
@@ -38,7 +39,7 @@
 
 ## Stack
 
-`Python` · `JavaScript` · `TypeScript` · `SQL` · `React` · `React Native` · `FastAPI` · `Chrome Extensions (MV3)` · `Azure` · `Databricks` · `Power BI` · `Docker` · `PyTorch` · `Ollama` · `D3.js` · `Three.js`
+`Python` · `Rust` · `JavaScript` · `TypeScript` · `SQL` · `React` · `React Native` · `FastAPI` · `Chrome Extensions (MV3)` · `Azure` · `Databricks` · `Power BI` · `Docker` · `PyTorch` · `Ollama` · `D3.js` · `Three.js` · `MCP`
 
 ---
 
